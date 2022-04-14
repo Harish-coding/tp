@@ -342,7 +342,6 @@ Edits a student's information in TAPA.
 | <img src="images/UG-EditCommand_1.png"> | <img src="images/UG-EditCommand_2.png"> |
 
 
---------------------------------------------------------------------------------------------------------------------
 <div style="page-break-after: always;"></div>
 
 
@@ -352,6 +351,8 @@ Edits a student's information in TAPA.
 * The `edit` command cannot to applied to `Task`.
 
 </div>
+
+--------------------------------------------------------------------------------------------------------------------
 
 <br>
 
@@ -372,7 +373,6 @@ Clears all students from TAPA.
 </div>
 
 
---------------------------------------------------------------------------------------------------------------------
 <div style="page-break-after: always;"></div>
 
 **Example**:
@@ -385,6 +385,9 @@ Clears all students from TAPA.
 | Before                                   | After                                    |
 |------------------------------------------|------------------------------------------|
 | <img src="images/UG-ClearCommand-1.png"> | <img src="images/UG-ClearCommand-2.png"> |
+
+--------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always;"></div>
 
 ### Archiving details in TAPA: `archive`
 
